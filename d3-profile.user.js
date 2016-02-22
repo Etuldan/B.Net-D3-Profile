@@ -10,9 +10,18 @@
 // @author      Etuldan
 // ==/UserScript==
 
+// Hidden Chararacters
 var uls = document.getElementsByTagName('ul');
 for (i=0; i<uls.length; i++)   {
   if(uls[i].className=="hero-tabs") {
     uls[i].style.height="auto";
+  }
+}
+
+// Font size reduction for Nicknames
+var spans = document.getElementsByTagName('span');
+for (i=0; i<spans.length; i++)   {
+  if(spans[i].className=="level" || spans[i].className=="name") {
+    spans[i].style.fontSize ="80%";
   }
 }
