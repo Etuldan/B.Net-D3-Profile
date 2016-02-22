@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Diablo 3 Profile
-// @namespace   https://forum.o9k.fr
+// @namespace   https://github.com/Etuldan/B.Net-D3-Profile
 // @description Show all the characters in the Battle.Net D3 profile page
 // @include     http*://*.battle.net/d3/*/profile/*
 // @icon        https://raw.githubusercontent.com/Etuldan/B.Net-D3-Profile/master/icon.png
