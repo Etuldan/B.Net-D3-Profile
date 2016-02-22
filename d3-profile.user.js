@@ -4,7 +4,7 @@
 // @description Show all the characters in the Battle.Net D3 profile page
 // @include     http*://*.battle.net/d3/*/profile/*
 // @icon        https://raw.githubusercontent.com/Etuldan/B.Net-D3-Profile/master/icon.png
-// @updateURL   https://raw.githubusercontent.com/Etuldan/B.Net-D3-Profile/master/greasemonkey.js
+// @updateURL   https://raw.githubusercontent.com/Etuldan/B.Net-D3-Profile/master/d3-profile.user.js
 // @version     1
 // @grant       none
 // @author      Etuldan
