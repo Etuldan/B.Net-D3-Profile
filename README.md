@@ -1,7 +1,8 @@
 # Battle.net Diablo3 Profile page
 
 This script will display all your characters in the Battle.Net Diablo3 Profile Page.  
-Actually, the non-modified page show only 10 characters, while you can have more than 10 In Game. The script will show all of them. It will also reduce the font-size of the nickames, as some of them which are 'long' could be truncated.
+Actually, the non-modified page show only 10 characters, while you can have more than 10 In Game. The script will show all of them.  
+It will also reduce the font-size of the nickames, as some of them which are 'long' could be truncated.
 
 
 You will need a GreaseMonkey extension for your browser :  
